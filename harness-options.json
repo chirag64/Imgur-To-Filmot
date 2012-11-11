@@ -1372,7 +1372,7 @@
    "description": "This is just a simple Firefox addon that changes all imgur links to filmot links. This is useful in scenarios where your school/college/office firewall has blocked the imgur website. Made specially for reddit fans but should work on all websites.", 
    "main": "main", 
    "name": "imgur-to-filmot", 
-   "version": "1.2.rev55"
+   "version": "1.21"
   }
  }, 
  "name": "imgur-to-filmot", 

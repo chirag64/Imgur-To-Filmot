@@ -1,9 +1,10 @@
 {
   "name": "imgur-to-filmot",
-  "title": "Imgur-To-Filmot",
-  "id": "jid1-7oEBV2wFam2JGg",
-  "description": "a basic add-on",
-  "author": "",
+  "title": "Imgur To Filmot",
+  "id": "jid0-JyBExbvANn11AojonIy8Q3kehPI@jetpack",
+  "description": "Changes all imgur links to filmot in web pages",
+  "author": "Chirag Bhatia (@Chirag64) <chiroo.dev+I2F@gmail.com>",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "1.3",
+  "logo": "/images/icon.png"
 }
